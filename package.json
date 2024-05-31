@@ -1,0 +1,15 @@
+{
+  "name": "traversymedia",
+  "version": "1.0.0",
+  "description": "Node crash course by TraversyMedia",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "cd011",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
